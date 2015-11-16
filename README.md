@@ -30,3 +30,7 @@ npm run debug
 ```json
 "https://login.live.com/"
 ```
+
+## TODO
+
+Extend the email provider/login list. Defined in [logins.js](https://github.com/pwmckenna/email-login-lookup/blob/master/logins.js).
